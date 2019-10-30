@@ -10,6 +10,9 @@
     text-align: center;
     
 }
+.card-text{
+    text-align: left;
+}
 .real{
 margin: 0;
 padding:0;
@@ -132,7 +135,6 @@ padding:0;
       text-align: center;
   }
  .footer-contact{
-     text-align: center;
      height: auto;
      background-color: white; 
      opacity: 0.9;
@@ -143,7 +145,10 @@ padding:0;
      height: 30px;
      width: 30px;
      margin: 10px 0 0 10px;
+     display: inline-block;
+     text-align: center;
  }
+
  
  
 /* //////////////////////////////////////////////////////////////////////////////////////////// */
